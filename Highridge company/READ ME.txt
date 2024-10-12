@@ -1,0 +1,16 @@
+1.Project Title- Weekly Payment System for Highridge Construction Company.
+
+2. Description
+Explanation of the project, its purpose, and what it accomplishes
+
+This Python program facilitates weekly payments for workers at Highridge Construction Company. It dynamically generates a list of 400 workers, assigns salary levels based on defined conditions, and produces payment slips for each worker.
+
+3. Features
+
+Dynamically creates a list of 400 workers with random attributes.
+Implements conditional logic to categorize employees.
+Generates payment slips for each worker.
+It includes error handling to manage unexpected issues.
+
+4. Github  
+https://github.com/Pontive
