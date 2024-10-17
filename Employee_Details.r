@@ -10,4 +10,4 @@ csv_file <- "C:/Users/YD/Documents/GETTING STARTED/Pontive/Gary Jimenez_details.
 
 # Read the CSV file and display the data
 employee_data <- read.csv(csv_file, stringsAsFactors = FALSE, na.strings = c("", "NA"))
-print(head(employee_data))  # Display the first few rows
+print(head(employee_data))
